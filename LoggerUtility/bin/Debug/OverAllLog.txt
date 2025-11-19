@@ -1,0 +1,15 @@
+✓ [2025-11-19 18:17:12.829]
+  🕑(UTC+07:00) Bangkok, Hanoi, Jakarta
+  [2025-11-20 01:17:12.835]
+  Class:    LoggerUtility.Utils.LoggerUtils
+  Method:   drive
+  Location: Car.cs:9
+  Message:  Car is driving!
+--------------------------------------------------
+⛌ [2025-11-19 18:17:12.859]
+  🕑(UTC+07:00) Bangkok, Hanoi, Jakarta
+  [2025-11-20 01:17:12.859]
+  Class:    LoggerUtility.Utils.LoggerUtils
+  Method:   drive
+  Location: Motorcycle.cs:10
+  Message:  Motorcycle can't drive due to no oil!

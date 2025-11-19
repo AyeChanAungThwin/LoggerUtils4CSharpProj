@@ -1,0 +1,6 @@
+E:\PosApplicationProject\LoggerUtility\LoggerUtility\bin\Debug\LoggerUtility.exe
+E:\PosApplicationProject\LoggerUtility\LoggerUtility\bin\Debug\LoggerUtility.pdb
+E:\PosApplicationProject\LoggerUtility\LoggerUtility\obj\Debug\LoggerUtility.csproj.AssemblyReference.cache
+E:\PosApplicationProject\LoggerUtility\LoggerUtility\obj\Debug\LoggerUtility.csproj.CoreCompileInputs.cache
+E:\PosApplicationProject\LoggerUtility\LoggerUtility\obj\Debug\LoggerUtility.exe
+E:\PosApplicationProject\LoggerUtility\LoggerUtility\obj\Debug\LoggerUtility.pdb
