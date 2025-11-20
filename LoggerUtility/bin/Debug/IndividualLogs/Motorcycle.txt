@@ -1,7 +1,17 @@
-⛌ [2025-11-19 18:17:12.859]
+⛌ [2025-11-20 07:21:43.265]
   🕑(UTC+07:00) Bangkok, Hanoi, Jakarta
-  [2025-11-20 01:17:12.859]
-  Class:    LoggerUtility.Utils.LoggerUtils
-  Method:   drive
-  Location: Motorcycle.cs:10
-  Message:  Motorcycle can't drive due to no oil!
+  [2025-11-20 14:21:43.265]
+  Directory : LoggerUtility\Model\Motorcycle.cs
+  Class Name: Motorcycle.cs
+  Method    : drive
+  LineNumber: 10
+  Message   : Motorcycle can't drive due to no oil!
+--------------------------------------------------
+⛌ [2025-11-20 07:22:49.702]
+  🕑(UTC+07:00) Bangkok, Hanoi, Jakarta
+  [2025-11-20 14:22:49.702]
+  Directory : LoggerUtility\Model\Motorcycle.cs
+  Class Name: Motorcycle.cs
+  Method    : drive
+  LineNumber: 10
+  Message   : Motorcycle can't drive due to no oil!

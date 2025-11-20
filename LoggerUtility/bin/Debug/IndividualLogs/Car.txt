@@ -1,7 +1,17 @@
-✓ [2025-11-19 18:17:12.829]
+✓ [2025-11-20 07:21:43.214]
   🕑(UTC+07:00) Bangkok, Hanoi, Jakarta
-  [2025-11-20 01:17:12.835]
-  Class:    LoggerUtility.Utils.LoggerUtils
-  Method:   drive
-  Location: Car.cs:9
-  Message:  Car is driving!
+  [2025-11-20 14:21:43.223]
+  Directory : LoggerUtility\Model\Car.cs
+  Class Name: Car.cs
+  Method    : drive
+  LineNumber: 9
+  Message   : Car is driving!
+--------------------------------------------------
+✓ [2025-11-20 07:22:49.631]
+  🕑(UTC+07:00) Bangkok, Hanoi, Jakarta
+  [2025-11-20 14:22:49.637]
+  Directory : LoggerUtility\Model\Car.cs
+  Class Name: Car.cs
+  Method    : drive
+  LineNumber: 9
+  Message   : Car is driving!
